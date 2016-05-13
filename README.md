@@ -32,7 +32,7 @@ Run project
 mvn spring-boot:run
 ```
 
-### RESTful Web Service
+### RESTful API
 ```
 GET: /todolist
 ```
